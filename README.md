@@ -1,3 +1,5 @@
-# curso-platzi-react-avanzado ⚛️
+# Petgram
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Proyecto web basado en instagram pero enfocado en mascotas.
+Proyecto del curso de React Avanzado de [Platzi](https://platzi.com/cursos/react-avanzado/)
+
